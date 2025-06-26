@@ -12,17 +12,4 @@ A Flutter application to view, edit, and upload user profile information includi
 2. **Install dependencies**  
 
 ```flutter pub get
-```
-
-lib/
-├── core/
-│   └── constants/           # App-wide constants (colors, text styles, etc.)
-│   └── services/            # Reusable services like CloudinaryService
-├── features/
-│   └── profile/
-│       ├── data/            # API models and repository implementations
-│       ├── domain/          # Entities and abstract repositories
-│       └── presentation/
-│           ├── bloc/        # BLoC logic (events, states, bloc)
-│           └── pages/       # Screens and widgets
-├── main.dart                # Entry point with GetIt and app setup
+ 
