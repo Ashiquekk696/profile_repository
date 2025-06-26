@@ -11,8 +11,9 @@ A Flutter application to view, edit, and upload user profile information includi
 
 2. **Install dependencies**  
 
-```flutter pub get
-
+```bash
+   flutter pub get 
+```
 ## 📦 Features
 
 - View and edit user profile: name, email, phone, bio, location
