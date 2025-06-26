@@ -12,4 +12,14 @@ A Flutter application to view, edit, and upload user profile information includi
 2. **Install dependencies**  
 
 ```flutter pub get
+
+## 📦 Features
+
+- View and edit user profile: name, email, phone, bio, location
+- Upload and preview profile image (Cloudinary)
+- Save profile data to a mock API backend
+- BLoC pattern with `flutter_bloc`
+- Dependency injection with `get_it`
+- Go_router for Routing
+- Clean architecture: separation of layers
  
