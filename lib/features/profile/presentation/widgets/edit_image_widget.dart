@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:get_it/get_it.dart';
 import 'package:profile_editor/core/constants/app_colors.dart';
-import 'package:profile_editor/features/presentation/bloc/profile_bloc.dart';
+import 'package:profile_editor/features/profile/presentation/bloc/profile_bloc.dart';
 
 class ProfileImageWidget extends StatelessWidget {
   const ProfileImageWidget({super.key});

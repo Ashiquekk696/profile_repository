@@ -7,8 +7,8 @@ import 'package:profile_editor/core/utils/app_toast.dart';
 import 'package:profile_editor/core/widgets/error_widget.dart';
 import 'package:profile_editor/core/widgets/loading_indicator.dart';
 import 'package:profile_editor/di/injector.dart';
-import 'package:profile_editor/features/presentation/bloc/profile_bloc.dart';
-import 'package:profile_editor/features/presentation/widgets/profile_view_widget.dart';  
+import 'package:profile_editor/features/profile/presentation/bloc/profile_bloc.dart';
+import 'package:profile_editor/features/profile/presentation/widgets/profile_view_widget.dart';  
 import 'package:profile_editor/core/constants/app_colors.dart'; 
 
 class ViewProfilePage extends StatefulWidget {

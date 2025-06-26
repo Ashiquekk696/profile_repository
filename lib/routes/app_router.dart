@@ -1,7 +1,7 @@
 import 'package:go_router/go_router.dart';
 import 'package:flutter/material.dart';
-import 'package:profile_editor/features/presentation/pages/edit_profile_view.dart';
-import 'package:profile_editor/features/presentation/pages/view_profile_view.dart';
+import 'package:profile_editor/features/profile/presentation/pages/edit_profile_view.dart';
+import 'package:profile_editor/features/profile/presentation/pages/view_profile_view.dart';
 
 
 class AppRouter {
